@@ -60,7 +60,7 @@ This project attempts to highlight such gaps and recommend ways Glo can better s
 
 If given the opportunity, I would love to work with the Glo team to bring deeper customer insights and optimize marketing and compliance communication through thoughtful data analysis.
 
-See my [project proposal here](./glo_proposal.pdf).
+See my [project proposal here](./Marvellous_Ekpen_Globacom_Proposal.pdf).
 
 ---
 
